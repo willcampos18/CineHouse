@@ -1,0 +1,15 @@
+[{
+    "codigo": 1,
+    "titulo": "Taxi Driver",
+    "duracao": 1.54,
+    "atores": ["Robert de Niro", "Jodie Foster", "Cybil Shepherd", "Harvey Keitel"],
+    "anoDeLancamento": 1976,
+    "emCartaz": false
+},{
+    "codigo": 2,
+    "titulo": "Scarface",
+    "duracao": 2.50,
+    "atores": ["Al Pacino", "Steven Bauer", "Michelle Pfeifer", "Mary Elizabeth Mastrantonio", "Robert Loggia"],
+    "anoDeLancamento": 1983,
+    "emCartaz": true
+}]
